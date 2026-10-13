@@ -2,7 +2,7 @@
 
 Turn any text into a working web or mobile app in 2 minutes.
 
-*Built with ❤️ from Kinshasa, DR Congo 🇨🇩*
+
 
 
 
