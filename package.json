@@ -1,0 +1,41 @@
+
+
+{
+  "name": "velocity-engine",
+  "version": "1.0.0",
+  "description": "🚀 AI-powered text-to-app engine. Turn any idea into a working web or mobile app in 2 minutes.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node examples/basic-usage.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "ai",
+    "gemini",
+    "text-to-app",
+    "react",
+    "react-native",
+    "vite",
+    "tailwindcss",
+    "code-generation",
+    "no-code",
+    "africa",
+    "open-source"
+  ],
+  "author": "Velocity IA",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/velocityiadev-design/velocity-engine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/velocityiadev-design/velocity-engine/issues"
+  },
+  "homepage": "https://github.com/velocityiadev-design/velocity-engine#readme",
+  "dependencies": {
+    "@google/genai": "^2.24.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
